@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='50' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='Arial'/>
+       <common scaleW='832' packed='0' pages='1' lineHeight='58' scaleH='768' base='49'/>
+       <pages>
+            <page id='0' file='CountFont.png'/>
+       </pages>
+        <chars count='11'>
+            <char xadvance='14' x='2' chnl='0' yoffset='46' y='728' xoffset='0' id='32' page='0' height='0' width='0'/>
+            <char xadvance='190' x='578' chnl='0' yoffset='-120' y='244' xoffset='0' id='48' page='0' height='240' width='190'/>
+            <char xadvance='190' x='386' chnl='0' yoffset='-120' y='244' xoffset='0' id='49' page='0' height='240' width='190'/>
+            <char xadvance='190' x='194' chnl='0' yoffset='-120' y='486' xoffset='0' id='50' page='0' height='240' width='190'/>
+            <char xadvance='190' x='194' chnl='0' yoffset='-120' y='244' xoffset='0' id='51' page='0' height='240' width='190'/>
+            <char xadvance='190' x='578' chnl='0' yoffset='-120' y='2' xoffset='0' id='52' page='0' height='240' width='190'/>
+            <char xadvance='190' x='386' chnl='0' yoffset='-120' y='2' xoffset='0' id='53' page='0' height='240' width='190'/>
+            <char xadvance='190' x='194' chnl='0' yoffset='-120' y='2' xoffset='0' id='54' page='0' height='240' width='190'/>
+            <char xadvance='190' x='2' chnl='0' yoffset='-120' y='486' xoffset='0' id='55' page='0' height='240' width='190'/>
+            <char xadvance='190' x='2' chnl='0' yoffset='-120' y='244' xoffset='0' id='56' page='0' height='240' width='190'/>
+            <char xadvance='190' x='2' chnl='0' yoffset='-120' y='2' xoffset='0' id='57' page='0' height='240' width='190'/>
+       </chars>
+       <kernings count="1">
+            <kerning first="49" second="49" amount="-3"/>
+       </kernings>
+   </font>
